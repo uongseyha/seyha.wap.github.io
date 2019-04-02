@@ -1,0 +1,37 @@
+body{
+    background-color: gray;
+    font-family: Verdana;
+    color: white;
+    text-align: left;
+}
+
+a:link {
+    color: pink;
+}
+
+/* visited link */
+a:visited {
+    color: darkred;
+}
+
+/* mouse over link */
+a:hover {
+    color: blue;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
+
+h1, h2, h3{
+    color:blue;
+}
+
+p{
+    color:white;
+}
+
+.YellowText p strong{
+    color:yellow;
+}
