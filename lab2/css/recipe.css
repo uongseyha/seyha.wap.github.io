@@ -1,15 +1,23 @@
-
-h1{
-    color: yellowgreen;
-    text-align: center;
-    background-color: lightgray;
-    text-decoration: underline;
+body{
+    background-color: white;
+    color:#404040;
 }
-h2{
-    color: yellowgreen;
-    text-align: left;
-    background-color: lightgray;
+
+p{
+    font-family: Georgia, Garamond;
+}
+h1,h2{
+    color: #A4A400;
+    text-align: center;
+    background-color: #F0F0F0;
     text-decoration: underline;
+    font-family: Lucida Sans Unicode, Helvetica, Arial;
+    font: 22pt bold;
+}
+
+h2{
+    text-align: left;
+    font: 18pt bold;
 }
 
 div.comment{
@@ -18,7 +26,7 @@ div.comment{
 }
 
 a{
-    color: yellowgreen;
+    color: #A4A400;
 }
 
 div.copy{
