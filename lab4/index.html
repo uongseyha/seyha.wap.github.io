@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+<form action="" class="form-group">
+    <h1>Task List</h1>
+    <div class="container">
+        <label for="task">Task</label>
+        <input type="text" id="task" name="task" class="form-control">
+        <label for="required">Required By</label>
+        <input type="date" id="required" name="required" class="form-control">
+        <label for="cat">Category</label>
+        <select id="cat" name="category" class="form-control">
+            <option>Personal</option>
+            <option>Work</option>
+        </select>
+        <br>
+        <input type="submit" name="Save" value="Save Task" class="btn btn-primary">
+        <input type="reset" name="Clear" value="Clear Task" class="btn btn-primary">
+    </div>
+    <br>
+    <div class="container">
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Due</th>
+                    <th>Category</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Return library books</td>
+                <td>2013-10-14</td>
+                <td>Personal</td>
+            </tr>
+            <tr>
+                <td>Return project demo to shareholder</td>
+                <td>2013-10-14</td>
+                <td>Work</td>
+            </tr>
+            <tr>
+                <td>Meet Friends for dinner</td>
+                <td>2013-10-14</td>
+                <td>Personal</td>
+            </tr>
+
+            </tbody>
+        </table>
+    </div>
+    <div class="container">
+        <input type="submit" name="add" value="Add Task" class="btn btn-primary">
+    </div>
+    <br>
+    <h3>You have 3 tasks</h3>
+</form>
+</body>
+</html>
