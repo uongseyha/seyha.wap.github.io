@@ -20,7 +20,7 @@ body {
     font-family: Tahoma, Verdana, sans-serif;
     color: black;
     margin: 20px;
-    text-shadow: 3px 3px gray;
+    text-shadow: 3px 3px #999999;
 }
 
 #content {
