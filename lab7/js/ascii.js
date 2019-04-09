@@ -77,4 +77,4 @@ window.onload=function () {
         timer=null;
     }
 
-}
+};
