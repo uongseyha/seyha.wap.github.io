@@ -1,3 +1,5 @@
+"use strict";
+
 var timer=null;
 var size="12pt";
 var speed=250;
@@ -7,8 +9,7 @@ window.onload=function () {
     document.getElementById("start").onclick=function () {
         console.log(timer);
         if (timer===null){
-            console.log("start...")
-
+            console.log("start...");
 
             size=document.getElementById("fontsize").value;
             console.log("font size=" + size);
@@ -29,9 +30,12 @@ window.onload=function () {
     };
 
     document.getElementById("turbo").onchange=function () {
-        if (document.getElementById("turbo").checked)
+        if (document.getElementById("turbo").checked){
             speed=50;
-        else speed=250;
+        }
+        else{
+            speed=250;
+        }
 
         clearProcess();
         runProcess(0);
@@ -42,7 +46,7 @@ window.onload=function () {
         animateArray=ANIMATIONS[animation].split("=====\n");
         clearProcess();
         runProcess(0);
-    }
+    };
 
     function runProcess(counter) {
         timer = setInterval(function(){
@@ -64,7 +68,7 @@ window.onload=function () {
                 /*clearInterval(i); */
                 counter=0;
             }
-            console.log("speed:" + speed)
+            console.log("speed:" + speed);
         }, speed);
     }
 
