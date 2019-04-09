@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9c86d920-758a-4d63-b957-0a8f91e667a2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/lab7/ascii.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab7/ascii.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/js/ascii.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab7/js/ascii.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab7/js/ascii.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+            <state relative-caret-position="816">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -35,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab7/ascii.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+            <state relative-caret-position="119">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -86,9 +85,9 @@
         <option value="$PROJECT_DIR$/lab6/js/decoratemytext.js" />
         <option value="$PROJECT_DIR$/lab6/decoratemytext.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/lab7/ascii.html" />
         <option value="$PROJECT_DIR$/lab7/css/ascii.css" />
         <option value="$PROJECT_DIR$/lab7/js/ascii.js" />
+        <option value="$PROJECT_DIR$/lab7/ascii.html" />
       </list>
     </option>
   </component>
@@ -188,12 +187,12 @@
       <workItem from="1554402626218" duration="26370000" />
       <workItem from="1554646903234" duration="10626000" />
       <workItem from="1554689594698" duration="1579000" />
-      <workItem from="1554756790920" duration="12895000" />
+      <workItem from="1554756790920" duration="13129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69871000" />
+    <option name="totallyTimeSpent" value="70105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="871" height="830" extended-state="0" />
@@ -349,13 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab7/ascii.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab7/js/animations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9989">
@@ -375,8 +367,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lab7/js/ascii.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        <state relative-caret-position="816">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7/ascii.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
