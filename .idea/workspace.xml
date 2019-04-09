@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c86d920-758a-4d63-b957-0a8f91e667a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lab7/ascii.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab7/ascii.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab7/css/ascii.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab7/css/ascii.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,16 +25,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab7/css/ascii.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="92">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab7/ascii.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -85,9 +85,9 @@
         <option value="$PROJECT_DIR$/lab6/js/decoratemytext.js" />
         <option value="$PROJECT_DIR$/lab6/decoratemytext.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/lab7/css/ascii.css" />
         <option value="$PROJECT_DIR$/lab7/js/ascii.js" />
         <option value="$PROJECT_DIR$/lab7/ascii.html" />
+        <option value="$PROJECT_DIR$/lab7/css/ascii.css" />
       </list>
     </option>
   </component>
@@ -187,12 +187,12 @@
       <workItem from="1554402626218" duration="26370000" />
       <workItem from="1554646903234" duration="10626000" />
       <workItem from="1554689594698" duration="1579000" />
-      <workItem from="1554756790920" duration="13129000" />
+      <workItem from="1554756790920" duration="13252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70105000" />
+    <option name="totallyTimeSpent" value="70228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="871" height="830" extended-state="0" />
@@ -358,13 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab7/css/ascii.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lab7/js/ascii.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -376,6 +369,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab7/css/ascii.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
