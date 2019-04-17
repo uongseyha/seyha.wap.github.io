@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="review.js"></script>
+    <link href="review.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <form id="formbooking">
+        <div id="error">
+
+        </div>
+        <p>
+            Name: <input type="text" required placeholder="name">
+        </p>
+        <p>
+            Street: <input type="text" required>
+        </p>
+        <p>
+            State:<select id="state" required>
+            <option value="">Select one</option>
+            <option value="Ohio">Ohio</option>
+            <option value="LA">LA</option>
+        </select>
+        </p>
+        <p>
+            Zip Code<input type="number" required pattern="\d{5}">
+        </p>
+        <p>
+            How manny seats? <input type="number" required id="seat">
+        </p>
+        <fieldset>
+            <legend>Which taxi do you required?</legend>
+            <p>
+                <input type="radio" value="car" name="taxi">Car
+            </p>
+            <p>
+                <input type="radio" value="van" name="taxi">Van
+            </p>
+            <p>
+                <input type="radio" value="TukTuk" name="taxi">Tuk Tuk
+            </p>
+        </fieldset>
+        <fieldset>
+            <legend>Extras</legend>
+            <p>
+                <input type="checkbox" name="extras" value="baby">Baby Seat
+            </p>
+            <p>
+                <input type="checkbox" name="extras" value="Wheelchair">Wheelchair Access
+            </p>
+            <p>
+                <input type="checkbox" name="extras" value="Stock">Stock Tip
+            </p>
+        </fieldset>
+        <p>
+            Special Instructions<textarea cols="30" rows="5"></textarea>
+        </p>
+        <p>
+            <input type="submit" value="Submit Booking" id="btn">
+        </p>
+    </form>
+</body>
+</html>
