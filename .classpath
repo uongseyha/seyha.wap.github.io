@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lab11.0/lab11/src/main/java"/>
+	<classpathentry kind="src" path="lab12/puzzle/src/main/java"/>
+	<classpathentry kind="src" path="Test/JSPDemo/src"/>
+	<classpathentry kind="src" path="Test/JSPMaven/src/main/Java"/>
+	<classpathentry kind="output" path="Test/JSPDemo/out/artifacts/JSPDemo_war_exploded/WEB-INF/classes"/>
+</classpath>

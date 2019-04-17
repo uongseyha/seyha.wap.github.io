@@ -6,20 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57a48cd5-d1e6-4d32-a1a0-1bd12bb9b08c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Test/JSPDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/JSPDemo/src/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/Midterm/inheritance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/Midterm/inheritance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/Midterm/inheritance2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/Midterm/inheritance2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/Midterm/revealmodule.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/Midterm/revealmodule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/Midterm/review.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/Midterm/review.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Test/Midterm/review.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="57a48cd5-d1e6-4d32-a1a0-1bd12bb9b08c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +42,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="1224">
               <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -178,6 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -287,12 +275,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555440840922</updated>
-      <workItem from="1555440844869" duration="17404000" />
+      <workItem from="1555440844869" duration="17793000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17404000" />
+    <option name="totallyTimeSpent" value="17793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="948" height="830" extended-state="0" />
@@ -304,7 +292,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.033632286" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2746637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32952926" />
       <window_info anchor="bottom" id="Terminal" />
@@ -386,7 +374,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="1224">
           <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
           <folding>
             <element signature="imports" expanded="true" />
