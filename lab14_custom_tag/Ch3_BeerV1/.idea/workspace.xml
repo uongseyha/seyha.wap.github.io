@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddb18d50-017e-4a99-af22-dc02c6032b79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../exercise/parsing_json/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exercise/parsing_json/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../exercise/parsing_json/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomTag/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomTag/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ddb18d50-017e-4a99-af22-dc02c6032b79" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,9 +79,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../exercise/parsing_json" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -114,16 +110,17 @@
       <updated>1555691168762</updated>
       <workItem from="1555691169989" duration="463000" />
       <workItem from="1555693516949" duration="149000" />
+      <workItem from="1555694062574" duration="144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="612000" />
+    <option name="totallyTimeSpent" value="756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12726055" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12860014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

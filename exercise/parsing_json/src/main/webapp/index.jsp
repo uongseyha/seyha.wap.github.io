@@ -6,12 +6,17 @@
 <header>
 </header>
 <body>
-$.ajax('https://jsonplaceholder.typicode.com/todos/1')
-.done(response => {
-console.log(response);
-console.log(JSON.stringify(response));
-console.log("userid is: " + response.userId);
-});
+
+<script>
+    $.ajax('https://jsonplaceholder.typicode.com/todos/1')
+        .done(response => {
+        console.log(response);
+    console.log(JSON.stringify(response));
+    console.log("userid is: " + response.userId);
+    });
+</script>
+
+
 
 </body>
 </html>
